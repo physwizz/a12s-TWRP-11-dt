@@ -26,7 +26,7 @@ jobs:
            MANIFEST: "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git -b twrp-11"
            DT_LINK: "https://github.com/physwizz/android_device_samsung_A127U2"
            VENDOR: "samsung"
-           CODENAME: "A127f"
+           CODENAME: "a12s"
            TARGET: "recoveryimage"
            FLAVOR: "eng"
            TZ: "Asia/Kolkata"
